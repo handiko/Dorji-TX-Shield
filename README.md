@@ -5,6 +5,10 @@ This Arduino shield is intended to used as APRS Transmitter module based on Ardu
 ## Pinout
 
 ## Gerber View
+* TOP Layer
+![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/gerber_top.png)
+* BOTTOM Layer
+![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/gerber_bottom.png)
 
 ## TODO
 
