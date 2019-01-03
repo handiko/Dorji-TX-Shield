@@ -17,6 +17,8 @@ This Arduino shield is intended to used as APRS Transmitter module based on Ardu
 | PIN 12     | Audio TX        | -           |
 | PIN 13     | PTT LED         | -           |
 
+_Please note that using pin 8 - 11 as Serial Data lines require using SoftwareSerial library._
+
 ## Gerber View
 * TOP Layer
 ![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/gerber_top.png)
