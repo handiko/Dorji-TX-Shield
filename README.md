@@ -10,12 +10,12 @@ This Arduino shield is intended to used as APRS Transmitter module based on Ardu
 | PIN 5      | H/L             | -           |
 | PIN 6      | PD              | -           |
 | PIN 7      | PTT(Active High)| -           |
-| PIN 8      | <---GPS Data    | -           |
-| PIN 9      | --->GPS Data    | -           |
+| PIN 8      | -               | <---GPS Data|
+| PIN 9      | -               | --->GPS Data|
 | PIN 10     | --->Dorji Data  | -           |
 | PIN 11     | <---Dorji Data  | -           |
 | PIN 12     | Audio TX        | -           |
-| PIN 13     | PTT LED         | -           |
+| PIN 13     | -               | PTT LED     |
 
 _Please note that using PIN 8-11 as Serial Data lines require using **SoftwareSerial** library._
 
