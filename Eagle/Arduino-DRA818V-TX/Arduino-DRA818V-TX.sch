@@ -12110,7 +12110,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND19" library="supply1" deviceset="GND" device=""/>
 <part name="T1" library="transistor" deviceset="*-NPN-" device="SOT23-BEC" technology="MMBT3904LT1"/>
-<part name="C10" library="resistor" deviceset="C-EU" device="C1206" value="1n"/>
+<part name="C10" library="resistor" deviceset="C-EU" device="C1206" value="1u"/>
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X4" device=""/>
 <part name="P+4" library="supply1" deviceset="+5V" device=""/>
