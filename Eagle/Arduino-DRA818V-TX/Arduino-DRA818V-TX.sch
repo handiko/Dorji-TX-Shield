@@ -12121,9 +12121,9 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <plain>
 </plain>
 <instances>
-<instance part="RESET" gate="1" x="83.82" y="41.91" rot="MR270"/>
+<instance part="RESET" gate="1" x="83.82" y="43.18" rot="MR270"/>
 <instance part="P+1" gate="1" x="140.97" y="124.46"/>
-<instance part="GND2" gate="1" x="78.74" y="36.83" rot="MR0"/>
+<instance part="GND2" gate="1" x="78.74" y="38.1" rot="MR0"/>
 <instance part="GND4" gate="1" x="132.08" y="38.1"/>
 <instance part="LED1" gate="G$1" x="132.08" y="45.72" smashed="yes">
 <attribute name="NAME" x="135.128" y="43.434" size="1.778" layer="95"/>
@@ -12240,8 +12240,8 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="GND" class="0">
 <segment>
-<wire x1="78.74" y1="41.91" x2="78.74" y2="39.37" width="0.1524" layer="91"/>
-<junction x="78.74" y="39.37"/>
+<wire x1="78.74" y1="43.18" x2="78.74" y2="40.64" width="0.1524" layer="91"/>
+<junction x="78.74" y="40.64"/>
 <pinref part="RESET" gate="1" pin="S"/>
 <pinref part="RESET" gate="1" pin="S1"/>
 <pinref part="GND2" gate="1" pin="GND"/>
@@ -12353,12 +12353,12 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 </net>
 <net name="RESET" class="0">
 <segment>
-<wire x1="88.9" y1="39.37" x2="88.9" y2="41.91" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="41.91" x2="99.06" y2="41.91" width="0.1524" layer="91"/>
-<junction x="88.9" y="41.91"/>
+<wire x1="88.9" y1="40.64" x2="88.9" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="43.18" x2="99.06" y2="43.18" width="0.1524" layer="91"/>
+<junction x="88.9" y="43.18"/>
 <pinref part="RESET" gate="1" pin="P"/>
 <pinref part="RESET" gate="1" pin="P1"/>
-<label x="91.44" y="43.18" size="1.778" layer="95"/>
+<label x="91.44" y="44.45" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="M1" gate="G$1" pin="/RESET"/>
