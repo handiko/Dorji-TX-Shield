@@ -363,7 +363,7 @@ Type="Board Editor"
 Loc="0 0 1365 714"
 State=1
 Number=2
-File="Arduino-DRA818V-TX.brd"
+File="C:/Users/USER/Dorji-TX-Shield/Eagle/Arduino Shield Template/Template.brd"
 View="8.23693 24.5039 94.368 92.2345"
 WireWidths=" 0 0.3048 1.016 1.27 1.4224 1.6764 3.81 6.4516 0.8128 0.6096 1.9304 2.1844 2.54 1.778 0.254 0.4064"
 PadDiameters=" 0.254 0.3048 0.4064 0.8128 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.6096 0 1.016"
@@ -409,7 +409,7 @@ Type="Schematic Editor"
 Loc="0 0 1365 714"
 State=1
 Number=1
-File="Arduino-DRA818V-TX.sch"
+File="C:/Users/USER/Dorji-TX-Shield/Eagle/Arduino Shield Template/Template.sch"
 View="-4.20716 -3.19116 188.149 136.333"
 WireWidths=" 0 0.3048 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0.4064 0.1524"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
@@ -449,7 +449,6 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
-Views=" 1: -4.20716 -3.19116 188.149 136.333"
 Sheet="1"
 
 [Desktop]
