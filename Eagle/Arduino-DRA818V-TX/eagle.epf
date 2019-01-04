@@ -353,9 +353,15 @@ UsedLibrary="C:/EAGLE-7.7.0/lbr/zetex.lbr"
 UsedLibrary="C:/EAGLE-7.7.0/lbr/zilog.lbr"
 
 [Win_1]
+Type="Control Panel"
+Loc="249 43 1141 634"
+State=2
+Number=0
+
+[Win_2]
 Type="Board Editor"
 Loc="0 0 1365 714"
-State=3
+State=1
 Number=2
 File="Arduino-DRA818V-TX.brd"
 View="8.23693 24.5039 94.368 92.2345"
@@ -398,10 +404,10 @@ AddLevel=2
 PadsSameType=0
 Layer=1
 
-[Win_2]
+[Win_3]
 Type="Schematic Editor"
 Loc="0 0 1365 714"
-State=3
+State=1
 Number=1
 File="Arduino-DRA818V-TX.sch"
 View="-4.20716 -3.19116 188.149 136.333"
@@ -443,13 +449,8 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -4.20716 -3.19116 188.149 136.333"
 Sheet="1"
-
-[Win_3]
-Type="Control Panel"
-Loc="249 43 1141 634"
-State=2
-Number=0
 
 [Desktop]
 Screen="3286 1086"

@@ -138,8 +138,9 @@
 </layers>
 <board>
 <plain>
-<text x="20.955" y="43.18" size="1.778" layer="29" ratio="10" rot="R90">ARDUINO TX-818V SHIELD v1.0</text>
-<text x="24.13" y="43.18" size="1.6764" layer="29" ratio="10" rot="R90">www.github.com/handiko</text>
+<text x="20.6375" y="43.18" size="1.778" layer="29" ratio="10" rot="R90">ARDUINO TX-818V SHIELD</text>
+<text x="25.4" y="43.18" size="1.6764" layer="29" ratio="10" rot="R90">www.github.com/handiko</text>
+<text x="23.1775" y="43.18" size="1.6764" layer="29" ratio="10" rot="R90">v1.0</text>
 </plain>
 <libraries>
 <library name="resistor">
