@@ -1,6 +1,6 @@
 # Dorji-TX-Shield (v.1.0)
 Dorji DRA818V VHF transmitter module shield for Arduino UNO &amp; compatibles.
-This Arduino shield is intended to used as APRS Transmitter module based on Arduino UNO (see https://github.com/handiko/Arduino-APRS).
+This Arduino shield is intended to used as an APRS Transmitter module based on Arduino UNO (see https://github.com/handiko/Arduino-APRS).
 
 ## Pinout
 |Arduino Pins|Dorji DRA818V    |   Shield    |
@@ -17,7 +17,10 @@ This Arduino shield is intended to used as APRS Transmitter module based on Ardu
 | PIN 12     | Audio TX        | -           |
 | PIN 13     | -               | PTT LED     |
 
-_Please note that using PIN 8-11 as Serial Data lines require using **SoftwareSerial** library._
+_Please note that in order to using PIN 8-11 as Serial Data lines, you need to use **SoftwareSerial** library._
+
+## Schematic
+![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/Arduino_Dorji_TX_Shield_Schematic.png)
 
 ## Gerber View
 * TOP Layer
@@ -31,7 +34,7 @@ _Please note that using PIN 8-11 as Serial Data lines require using **SoftwareSe
 ## TODO
 * Adding Silkscreen layer
 * Adding ISP port capability
-* Adding RX capability (maybe in different repo..?)
+* Adding RX capability (maybe in a different repo..?)
 * ...
 
 ## Acknowledgements
