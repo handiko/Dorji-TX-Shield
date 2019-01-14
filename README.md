@@ -40,3 +40,11 @@ _Please note that in order to using PIN 8-11 as Serial Data lines, you need to u
 ## Acknowledgements
 * Djoko Marjono Susilo - YB1TJ
 * Adafruit Proto Shield PCB [GitHub page](https://github.com/adafruit/Adafruit-Proto-Shield-PCB)
+
+## Contributing
+1. Fork it [https://github.com/handiko/Dorji-TX-Shield/fork](https://github.com/handiko/Dorji-TX-Shield/fork)
+2. Create new branch (`git checkout -b add-blah-blah`)
+3. Do some editing / create new feature
+4. Commit your works (`git commit -m "Adding some blah blah blah.."`)
+5. Push to the branch (`git push -u origin add-blah-blah`)
+6. Create a new Pull Request
