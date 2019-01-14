@@ -1,6 +1,6 @@
-# Dorji-TX-Shield (v.1.0)
+# Arduino UNO Shield for Dorji DRA818V/U Transmitter
 Dorji DRA818V VHF transmitter module shield for Arduino UNO &amp; compatibles.
-This Arduino shield is intended to used as an APRS Transmitter module based on Arduino UNO (see https://github.com/handiko/Arduino-APRS).
+This Arduino shield is intended to used as an APRS Transmitter module based on Arduino UNO (see [my Arduino APRS GitHub page](https://github.com/handiko/Arduino-APRS).
 
 ## Pinout
 |Arduino Pins|Dorji DRA818V    |   Shield    |
@@ -20,16 +20,16 @@ This Arduino shield is intended to used as an APRS Transmitter module based on A
 _Please note that in order to using PIN 8-11 as Serial Data lines, you need to use **SoftwareSerial** library._
 
 ## Schematic
-![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/Arduino_Dorji_TX_Shield_Schematic.png)
+![](./Arduino_Dorji_TX_Shield_Schematic.png)
 
 ## Gerber View
 * TOP Layer
 
-![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/gerber_top.png)
+![](./gerber_top.png)
 
 * BOTTOM Layer
 
-![alt text](https://github.com/handiko/Dorji-TX-Shield/blob/master/Pics/gerber_bottom.png)
+![](./gerber_bottom.png)
 
 ## TODO
 * Adding Silkscreen layer
@@ -39,4 +39,4 @@ _Please note that in order to using PIN 8-11 as Serial Data lines, you need to u
 
 ## Acknowledgements
 * Djoko Marjono Susilo - YB1TJ
-* Adafruit Proto Shield PCB https://github.com/adafruit/Adafruit-Proto-Shield-PCB
+* Adafruit Proto Shield PCB [GitHub page](https://github.com/adafruit/Adafruit-Proto-Shield-PCB)
