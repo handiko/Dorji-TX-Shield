@@ -3,19 +3,19 @@ Dorji DRA818V VHF transmitter module shield for Arduino UNO &amp; compatibles.
 This Arduino shield is intended to used as an APRS Transmitter module based on Arduino UNO (see [my Arduino APRS GitHub page](https://github.com/handiko/Arduino-APRS).
 
 ## Pinout
-|Arduino Pins|Dorji DRA818V    |   Shield    |
-|:----------:|:---------------:|:-----------:|
-| +5V        | +VBAT           | LED 2 (PWR) |
-| RESET      | -               | RESET Button|
-| PIN 5      | H/L             | -           |
-| PIN 6      | PD              | -           |
-| PIN 7      | PTT(Active High)| -           |
-| PIN 8      | -               | <---GPS Data|
-| PIN 9      | -               | --->GPS Data|
-| PIN 10     | --->Dorji Data  | -           |
-| PIN 11     | <---Dorji Data  | -           |
-| PIN 12     | Audio TX        | -           |
-| PIN 13     | -               | PTT LED     |
+|Arduino Pins|Dorji DRA818V   |Shield      |
+|:----------:|:--------------:|:----------:|
+|+5V         |+VBAT           |LED 2 (PWR) |
+|RESET       |-               |RESET Button|
+|PIN 5       |H/L             |-           |
+|PIN 6       |PD              |-           |
+|PIN 7       |PTT(Active High)|-           |
+|PIN 8       |-               |<---GPS Data|
+|PIN 9       |-               |--->GPS Data|
+|PIN 10      |--->Dorji Data  |-           |
+|PIN 11      |<---Dorji Data  |-           |
+|PIN 12      |Audio TX        |-           |
+|PIN 13      |-               |PTT LED     |
 
 _Please note that in order to using PIN 8-11 as Serial Data lines, you need to use **SoftwareSerial** library._
 
