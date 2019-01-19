@@ -5,7 +5,7 @@ This Arduino shield is intended to used as an APRS Transmitter module based on A
 ## Pinout
 ![](./pinout.png)
 
-_Please note that in order to using PIN 8-11 as Serial Data lines, you need to use **SoftwareSerial** library._
+_Please note that in order to use PIN 8-11 as Serial Data lines, you need to use **SoftwareSerial** library._
 
 ## Schematic
 ![](./Arduino_Dorji_TX_Shield_Schematic.png)
