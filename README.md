@@ -4,6 +4,7 @@ This Arduino shield is intended to used as an APRS Transmitter module based on A
 
 ## Photos
 ![](./dorji_2.jpg)
+![](./dorji_merge.jpg)
 
 ## Pinout
 ![](./pinout.png)
