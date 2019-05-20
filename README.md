@@ -1,6 +1,6 @@
 # Arduino UNO Shield for Dorji DRA818V/U Transmitter
 Dorji DRA818V VHF transmitter module shield for Arduino UNO &amp; compatibles.
-This Arduino shield is intended to used as an APRS Transmitter module based on Arduino UNO (see my Arduino APRS [GitHub page](https://handiko.github.io/Arduino-APRS/) or [GitHub repo](https://github.com/handiko/Arduino-APRS). In this version (v.10), this board only support low power mode since high power will demand more current and this board only powered from 5V pin of the Arduino (It doesn't obtain power from Arduino Vin pin, yet).
+This Arduino shield is intended to used as an APRS Transmitter module based on Arduino UNO (see my Arduino APRS [GitHub page](https://handiko.github.io/Arduino-APRS/) or [GitHub repo](https://github.com/handiko/Arduino-APRS). In this version (v.1.0), this board only support low power mode since high power will demand more current and this board only powered from 5V pin of the Arduino (It doesn't obtain power from Arduino Vin pin, yet).
 
 ## Photos
 ![](./dorji_2.jpg)
